@@ -1,0 +1,76 @@
+Electron Configuration Worksheet
+
+Title: Electron Configuration Worksheet
+Name: _______________________   Date: __________   Class: __________
+Time: 20 minutes
+
+Instructions: Answer the multiple-choice questions and short-answer questions. Show your work where requested.
+
+Multiple-choice (circle the correct letter)
+1. According to the Aufbau Principle, which of these is the correct ground-state electron configuration for oxygen (O, atomic number 8)?
+A. 1s2 2s2 2p2
+B. 1s2 2s2 2p4
+C. 1s2 2s1 2p5
+D. 1s2 2s2 3s2
+
+2. The Pauli Exclusion Principle states:
+A. Electrons fill degenerate orbitals singly before pairing.
+B. No two electrons in an atom can have the same set of four quantum numbers.
+C. Electrons occupy the lowest available energy levels first.
+D. Electrons can have any spin in the same orbital.
+
+3. According to Hund’s Rule, how will three electrons be arranged in the three 2p orbitals (2px, 2py, 2pz) of nitrogen (2p3)?
+A. Two electrons paired in one orbital, one in another, leaving one orbital empty
+B. One electron in each orbital with parallel spins
+C. All three electrons paired in a single orbital
+D. One electron in two orbitals and one orbital empty, spins alternating
+
+4. Which of the following orbital diagrams violates the Pauli Exclusion Principle?
+A. 1s: ↑↓ 2s: ↑↓
+B. 2p(x): ↑ 2p(y): ↑ 2p(z): ↑
+C. 3s: ↑↑
+D. 1s: ↑↓ 2s: ↑ 2p(x): ↑
+
+5. After filling 4s, which orbital is next according to the usual Aufbau order?
+A. 4p
+B. 3d
+C. 5s
+D. 2p
+
+6. Which electron configuration for carbon (atomic number 6) shows correct use of Hund’s Rule for the 2p electrons?
+A. 1s2 2s2 2p(↑↓, — , —)
+B. 1s2 2s2 2p(↑, ↑, —)
+C. 1s2 2s1 2p(↑, ↑, —)
+D. 1s2 2s2 2p(↑↓, ↑, —)
+
+Short-answer
+7. In one sentence, state the Pauli Exclusion Principle in terms a classmate can understand.
+
+
+
+8. Write the orbital filling (use ↑ and ↓ for spins) for nitrogen (N, atomic number 7). Explain briefly how Hund’s Rule applies to the 2p orbitals.
+
+
+
+9. Which principle (Hund’s, Pauli, or Aufbau) explains why the 3s orbital is filled before the 3p orbitals? Give a short reason.
+
+
+
+10. Sulfur has electron configuration 1s2 2s2 2p6 3s2 3p4. How many unpaired electrons does sulfur have in its ground state? Show how you determine your answer using Hund’s Rule.
+
+
+
+----Answer Key (teacher use only)----
+1. B — 1s2 2s2 2p4.
+2. B — No two electrons in an atom can have the same set of four quantum numbers (equivalently: at most two electrons per orbital and they must have opposite spins).
+3. B — One electron goes into each 2p orbital with parallel spins (↑ ↑ ↑).
+4. C — "3s: ↑↑" violates Pauli because two electrons in the same orbital must have opposite spins (↑↓ is allowed, ↑↑ is not).
+5. B — 3d is filled after 4s in the standard Aufbau order (4s → 3d → 4p).
+6. B — 1s2 2s2 2p(↑, ↑, —) shows each 2p orbital singly occupied before pairing.
+7. Example answer: "The Pauli Exclusion Principle says no two electrons in the same atom can have identical quantum numbers, so an orbital can hold at most two electrons and they must have opposite spins."
+8. Orbital filling: 1s: ↑↓ 2s: ↑↓ 2p: ↑ ↑ ↑ (i.e., 2px ↑, 2py ↑, 2pz ↑). Hund’s Rule says put one electron in each degenerate orbital (the 2p orbitals) with parallel spins before you start pairing them.
+9. Aufbau Principle — it states electrons occupy the lowest available energy orbitals first; 3s is lower in energy than 3p, so 3s fills before 3p.
+10. Sulfur (3p4): The 3p subshell has three orbitals; with four electrons you place ↑ ↑ ↓ (or two orbitals singly occupied with ↑ and the third orbital has a pair ↑↓). That gives 2 unpaired electrons. Using Hund’s Rule, you first place one electron in each 3p orbital (↑ ↑ ↑), then add the fourth electron to pair up in one orbital (↑↓, ↑, ↑) → two unpaired.
+
+
+(End of document)
